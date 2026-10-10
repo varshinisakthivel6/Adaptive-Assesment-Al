@@ -20,8 +20,8 @@ This is an AI-powered adaptive assessment system that provides personalized test
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/varshinisakthivel6/code_buddies.git
-cd code_buddies
+git clone https://github.com/varshinisakthivel6/Adaptive-Assesment-Al.git
+cd Adaptive-Assesment-Al
 ```
 
 ### 2. Set Up Python Virtual Environment
